@@ -1,0 +1,1 @@
+For the current project, I am currently working on creating a website that has a list of recipes. When the recipe is clicked on, it will navigate to a new page. I will put my html skills to the test. 
